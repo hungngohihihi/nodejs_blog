@@ -8,7 +8,7 @@ app.get('/', (req, res) => {  // Định nghĩa tuyến đường
 
   var c = a + b;
 
-  res.send('Hello World!')
+  res.send('Hello World! Windows')
 })
 
 app.listen(port, () => {
